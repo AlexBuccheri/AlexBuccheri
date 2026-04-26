@@ -37,8 +37,6 @@ Scientific software engineer working on electronic-structure theory, real-time T
 
 ## Project index
 
-Compact repository badges are shown inline. Each section shows three repositories by default where possible; expand the section to see the rest.
-
 ### Python Prototyping
 
 #### Physics
