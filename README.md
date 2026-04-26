@@ -23,6 +23,7 @@ Scientific software engineer working on electronic-structure theory, real-time T
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBuccheri&layout=compact&hide_border=true&langs_count=8">
 </p>
 
+<!--
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=AlexBuccheri&hide_border=true">
 </p>
@@ -30,6 +31,7 @@ Scientific software engineer working on electronic-structure theory, real-time T
 <p align="center">
   <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexBuccheri&hide_border=true&radius=8">
 </p>
+-->
 
 ---
 
